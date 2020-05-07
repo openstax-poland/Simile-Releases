@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane minHeight="750.0" minWidth="1366.0" prefHeight="750.0" prefWidth="1366.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="webviewselenium.gui.settings.SettingsController">
+   <center>
+      <Pane prefHeight="750.0" prefWidth="1366.0" BorderPane.alignment="CENTER">
+         <children>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#440045" height="87.0" stroke="BLACK" strokeType="INSIDE" style="-fx-arc-width: 100%; -fx-arc-height: 15%;" width="5000.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#d4d4d9" height="3000.0" layoutX="-169.0" layoutY="87.0" stroke="BLACK" strokeType="INSIDE" width="5000.0" />
+            <ImageView fitHeight="150.0" fitWidth="130.0" layoutX="17.0" layoutY="48.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../resources/simile.png" />
+               </image>
+            </ImageView>
+            <Text layoutX="10.0" layoutY="1286.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-fill: #440045;" text="Book in QA">
+               <font>
+                  <Font size="26.0" />
+               </font>
+            </Text>
+            <ImageView fitHeight="20.0" fitWidth="200.0" layoutX="185.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../resources/gui-elements/menu1.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="20.0" fitWidth="250.0" layoutX="421.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../resources/gui-elements/menu2.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="20.0" fitWidth="200.0" layoutX="708.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../resources/gui-elements/menu3b.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="26.0" fitWidth="200.0" layoutX="906.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../resources/gui-elements/menu4.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="24.0" fitWidth="200.0" layoutX="1066.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../resources/gui-elements/menu5.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="150.0" fitWidth="10.0" layoutX="396.0" layoutY="43.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../resources/gui-elements/trojkont.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="150.0" fitWidth="10.0" layoutX="681.0" layoutY="43.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../resources/gui-elements/trojkont.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="150.0" fitWidth="10.0" layoutX="879.0" layoutY="43.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../resources/gui-elements/trojkont.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="150.0" fitWidth="10.0" layoutX="1035.0" layoutY="43.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../resources/gui-elements/trojkont.png" />
+               </image>
+            </ImageView>
+            <Button layoutX="1066.0" layoutY="37.0" mnemonicParsing="false" opacity="0.0" prefHeight="26.0" prefWidth="206.0" style="-fx-text-fill: #eeeef0; -fx-background-color: #440045;">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Button>
+            <Button layoutX="906.0" layoutY="36.0" mnemonicParsing="false" opacity="0.0" prefHeight="26.0" prefWidth="142.0" style="-fx-text-fill: #eeeef0; -fx-background-color: #440045;">
+               <cursor>
+                  <Cursor fx:constant="DEFAULT" />
+               </cursor>
+            </Button>
+            <Button fx:id="chooseBookMenu" layoutX="708.0" layoutY="37.0" mnemonicParsing="false" onAction="#goToChooseBookMenu" opacity="0.0" prefHeight="26.0" prefWidth="184.0" style="-fx-text-fill: #eeff00; -fx-background-color: #440045;">
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Button>
+            <Button fx:id="scanReferenceBookButton" layoutX="421.0" layoutY="36.0" mnemonicParsing="false" onAction="#goToScanReferenceBookMenu" opacity="0.0" prefHeight="26.0" prefWidth="270.0" style="-fx-background-color: #440045; -fx-text-fill: #eeeef0;">
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Button>
+            <Button fx:id="scanBookInQAButton" layoutX="180.0" layoutY="36.0" mnemonicParsing="false" onAction="#goToScanBookInQAMenu" opacity="0.0" prefHeight="26.0" prefWidth="225.0" style="-fx-background-color: #440045; -fx-text-fill: #eeeef0;">
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Button>
+            <ImageView fitHeight="24.0" fitWidth="200.0" layoutX="1301.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../resources/gui-elements/kwiatek.png" />
+               </image>
+            </ImageView>
+            <Button layoutX="1301.0" layoutY="39.0" mnemonicParsing="false" onAction="#goToSettings" opacity="0.0" prefHeight="24.0" prefWidth="24.0">
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Button>
+            <Button fx:id="chooseDirectoryButton" layoutX="525.0" layoutY="149.0" mnemonicParsing="false" onAction="#chooseDirectoryForScanStorage" prefHeight="26.0" prefWidth="79.0" text="Browse" />
+            <TextArea fx:id="scanPathTextArea" layoutX="26.0" layoutY="141.0" prefHeight="20.0" prefWidth="488.0" />
+            <Text layoutX="50.0" layoutY="202.0" strokeType="OUTSIDE" strokeWidth="0.0" text="(Choose directory where you want to locate your ScanDB directory)" />
+         </children>
+      </Pane>
+   </center>
+</BorderPane>

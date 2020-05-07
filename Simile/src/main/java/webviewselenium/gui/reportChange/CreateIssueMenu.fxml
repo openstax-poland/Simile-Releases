@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Rectangle?>
+<BorderPane minHeight="370.0" minWidth="500.0" prefHeight="370.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="webviewselenium.gui.reportChange.CreateIssueController">
+   <center>
+      <Pane prefHeight="700.0" prefWidth="1366.0" BorderPane.alignment="CENTER">
+         <children>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#440045" height="42.0" stroke="BLACK" strokeType="INSIDE" style="-fx-arc-width: 100%; -fx-arc-height: 15%;" width="5000.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#d4d4d9" height="3000.0" layoutX="-3.0" layoutY="42.0" stroke="BLACK" strokeType="INSIDE" width="5000.0" />
+            <TextField fx:id="categoryNameField" layoutX="47.0" layoutY="105.0" prefHeight="26.0" prefWidth="405.0" promptText="category name" style="-fx-background-radius: 20;" />
+            <TextField fx:id="categoryDescriptionField" layoutX="47.0" layoutY="148.0" prefHeight="106.0" prefWidth="406.0" promptText="category description" />
+            <Button fx:id="addCategoryButton" layoutX="211.0" layoutY="290.0" mnemonicParsing="false" onAction="#addCategory" prefHeight="0.0" prefWidth="78.0" style="-fx-background-color: #440045; -fx-background-radius: 50;" text="Add" textFill="WHITE" />
+            <ImageView fitHeight="15.0" fitWidth="56.0" layoutX="14.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../resources/simile.png" />
+               </image>
+            </ImageView>
+         </children>
+      </Pane>
+   </center>
+</BorderPane>

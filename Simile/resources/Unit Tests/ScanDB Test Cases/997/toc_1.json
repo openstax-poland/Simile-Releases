@@ -1,0 +1,932 @@
+[
+  {
+    "type": "module",
+    "title": "Preface",
+    "url": "https://openstax.org/books/entrepreneurship/pages/preface"
+  },
+  {
+    "type": "chapter",
+    "title": "1 The Entrepreneurial Perspective",
+    "chapters": [
+      {
+        "type": "module",
+        "title": "Introduction",
+        "url": "https://openstax.org/books/entrepreneurship/pages/1-introduction"
+      },
+      {
+        "type": "module",
+        "title": "1.1 Entrepreneurship Today",
+        "url": "https://openstax.org/books/entrepreneurship/pages/1-1-entrepreneurship-today"
+      },
+      {
+        "type": "module",
+        "title": "Key Terms",
+        "url": "https://openstax.org/books/entrepreneurship/pages/1-key-terms"
+      },
+      {
+        "type": "module",
+        "title": "Summary",
+        "url": "https://openstax.org/books/entrepreneurship/pages/1-summary"
+      },
+      {
+        "type": "module",
+        "title": "Review Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/1-review-questions"
+      },
+      {
+        "type": "module",
+        "title": "Discussion Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/1-discussion-questions"
+      },
+      {
+        "type": "module",
+        "title": "Case Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/1-case-questions"
+      },
+      {
+        "type": "module",
+        "title": "Suggested Resources",
+        "url": "https://openstax.org/books/entrepreneurship/pages/1-suggested-resources"
+      }
+    ]
+  },
+  {
+    "type": "chapter",
+    "title": "2 The Entrepreneurial Journey and Pathways",
+    "chapters": [
+      {
+        "type": "module",
+        "title": "Introduction",
+        "url": "https://openstax.org/books/entrepreneurship/pages/2-introduction"
+      },
+      {
+        "type": "module",
+        "title": "2.1 Overview of the Entrepreneurial Journey",
+        "url": "https://openstax.org/books/entrepreneurship/pages/2-1-overview-of-the-entrepreneurial-journey"
+      },
+      {
+        "type": "module",
+        "title": "2.2 The Process of Becoming an Entrepreneur",
+        "url": "https://openstax.org/books/entrepreneurship/pages/2-2-the-process-of-becoming-an-entrepreneur"
+      },
+      {
+        "type": "module",
+        "title": "2.3 Entrepreneurial Pathways",
+        "url": "https://openstax.org/books/entrepreneurship/pages/2-3-entrepreneurial-pathways"
+      },
+      {
+        "type": "module",
+        "title": "2.4 Frameworks to Inform Your Entrepreneurial Path",
+        "url": "https://openstax.org/books/entrepreneurship/pages/2-4-frameworks-to-inform-your-entrepreneurial-path"
+      },
+      {
+        "type": "module",
+        "title": "Key Terms",
+        "url": "https://openstax.org/books/entrepreneurship/pages/2-key-terms"
+      },
+      {
+        "type": "module",
+        "title": "Summary",
+        "url": "https://openstax.org/books/entrepreneurship/pages/2-summary"
+      },
+      {
+        "type": "module",
+        "title": "Review Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/2-review-questions"
+      },
+      {
+        "type": "module",
+        "title": "Discussion Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/2-discussion-questions"
+      },
+      {
+        "type": "module",
+        "title": "Case Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/2-case-questions"
+      },
+      {
+        "type": "module",
+        "title": "Suggested Resources",
+        "url": "https://openstax.org/books/entrepreneurship/pages/2-suggested-resources"
+      }
+    ]
+  },
+  {
+    "type": "chapter",
+    "title": "3 The Ethical and Social Responsibilities of Entrepreneurs",
+    "chapters": [
+      {
+        "type": "module",
+        "title": "Introduction",
+        "url": "https://openstax.org/books/entrepreneurship/pages/3-introduction"
+      },
+      {
+        "type": "module",
+        "title": "3.1 Ethical and Legal Issues in Entrepreneurship",
+        "url": "https://openstax.org/books/entrepreneurship/pages/3-1-ethical-and-legal-issues-in-entrepreneurship"
+      },
+      {
+        "type": "module",
+        "title": "3.2 Corporate Social Responsibility and Social Entrepreneurship",
+        "url": "https://openstax.org/books/entrepreneurship/pages/3-2-corporate-social-responsibility-and-social-entrepreneurship"
+      },
+      {
+        "type": "module",
+        "title": "3.3 Developing a Workplace Culture of Ethical Excellence and Accountability",
+        "url": "https://openstax.org/books/entrepreneurship/pages/3-3-developing-a-workplace-culture-of-ethical-excellence-and-accountability"
+      },
+      {
+        "type": "module",
+        "title": "Key Terms",
+        "url": "https://openstax.org/books/entrepreneurship/pages/3-key-terms"
+      },
+      {
+        "type": "module",
+        "title": "Summary",
+        "url": "https://openstax.org/books/entrepreneurship/pages/3-summary"
+      },
+      {
+        "type": "module",
+        "title": "Review Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/3-review-questions"
+      },
+      {
+        "type": "module",
+        "title": "Discussion Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/3-discussion-questions"
+      },
+      {
+        "type": "module",
+        "title": "Case Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/3-case-questions"
+      },
+      {
+        "type": "module",
+        "title": "Suggested Resources",
+        "url": "https://openstax.org/books/entrepreneurship/pages/3-suggested-resources"
+      }
+    ]
+  },
+  {
+    "type": "chapter",
+    "title": "4 Creativity, Innovation, and Invention",
+    "chapters": [
+      {
+        "type": "module",
+        "title": "Introduction",
+        "url": "https://openstax.org/books/entrepreneurship/pages/4-introduction"
+      },
+      {
+        "type": "module",
+        "title": "4.1 Tools for Creativity and Innovation",
+        "url": "https://openstax.org/books/entrepreneurship/pages/4-1-tools-for-creativity-and-innovation"
+      },
+      {
+        "type": "module",
+        "title": "4.2 Creativity, Innovation, and Invention: How They Differ",
+        "url": "https://openstax.org/books/entrepreneurship/pages/4-2-creativity-innovation-and-invention-how-they-differ"
+      },
+      {
+        "type": "module",
+        "title": "4.3 Developing Ideas, Innovations, and Inventions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/4-3-developing-ideas-innovations-and-inventions"
+      },
+      {
+        "type": "module",
+        "title": "Key Terms",
+        "url": "https://openstax.org/books/entrepreneurship/pages/4-key-terms"
+      },
+      {
+        "type": "module",
+        "title": "Summary",
+        "url": "https://openstax.org/books/entrepreneurship/pages/4-summary"
+      },
+      {
+        "type": "module",
+        "title": "Review Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/4-review-questions"
+      },
+      {
+        "type": "module",
+        "title": "Discussion Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/4-discussion-questions"
+      },
+      {
+        "type": "module",
+        "title": "Case Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/4-case-questions"
+      },
+      {
+        "type": "module",
+        "title": "Suggested Resources",
+        "url": "https://openstax.org/books/entrepreneurship/pages/4-suggested-resources"
+      }
+    ]
+  },
+  {
+    "type": "chapter",
+    "title": "5 Identifying Entrepreneurial Opportunity",
+    "chapters": [
+      {
+        "type": "module",
+        "title": "Introduction",
+        "url": "https://openstax.org/books/entrepreneurship/pages/5-introduction"
+      },
+      {
+        "type": "module",
+        "title": "5.1 Entrepreneurial Opportunity",
+        "url": "https://openstax.org/books/entrepreneurship/pages/5-1-entrepreneurial-opportunity"
+      },
+      {
+        "type": "module",
+        "title": "5.2 Researching Potential Business Opportunities",
+        "url": "https://openstax.org/books/entrepreneurship/pages/5-2-researching-potential-business-opportunities"
+      },
+      {
+        "type": "module",
+        "title": "5.3 Competitive Analysis",
+        "url": "https://openstax.org/books/entrepreneurship/pages/5-3-competitive-analysis"
+      },
+      {
+        "type": "module",
+        "title": "Key Terms",
+        "url": "https://openstax.org/books/entrepreneurship/pages/5-key-terms"
+      },
+      {
+        "type": "module",
+        "title": "Summary",
+        "url": "https://openstax.org/books/entrepreneurship/pages/5-summary"
+      },
+      {
+        "type": "module",
+        "title": "Review Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/5-review-questions"
+      },
+      {
+        "type": "module",
+        "title": "Discussion Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/5-discussion-questions"
+      },
+      {
+        "type": "module",
+        "title": "Case Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/5-case-questions"
+      },
+      {
+        "type": "module",
+        "title": "Suggested Resources",
+        "url": "https://openstax.org/books/entrepreneurship/pages/5-suggested-resources"
+      }
+    ]
+  },
+  {
+    "type": "chapter",
+    "title": "6 Problem Solving and Need Recognition Techniques",
+    "chapters": [
+      {
+        "type": "module",
+        "title": "Introduction",
+        "url": "https://openstax.org/books/entrepreneurship/pages/6-introduction"
+      },
+      {
+        "type": "module",
+        "title": "6.1 Problem Solving to Find Entrepreneurial Solutions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/6-1-problem-solving-to-find-entrepreneurial-solutions"
+      },
+      {
+        "type": "module",
+        "title": "6.2 Creative Problem-Solving Process",
+        "url": "https://openstax.org/books/entrepreneurship/pages/6-2-creative-problem-solving-process"
+      },
+      {
+        "type": "module",
+        "title": "6.3 Design Thinking",
+        "url": "https://openstax.org/books/entrepreneurship/pages/6-3-design-thinking"
+      },
+      {
+        "type": "module",
+        "title": "6.4 Lean Processes",
+        "url": "https://openstax.org/books/entrepreneurship/pages/6-4-lean-processes"
+      },
+      {
+        "type": "module",
+        "title": "Key Terms",
+        "url": "https://openstax.org/books/entrepreneurship/pages/6-key-terms"
+      },
+      {
+        "type": "module",
+        "title": "Summary",
+        "url": "https://openstax.org/books/entrepreneurship/pages/6-summary"
+      },
+      {
+        "type": "module",
+        "title": "Review Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/6-review-questions"
+      },
+      {
+        "type": "module",
+        "title": "Discussion Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/6-discussion-questions"
+      },
+      {
+        "type": "module",
+        "title": "Case Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/6-case-questions"
+      },
+      {
+        "type": "module",
+        "title": "Suggested Resources",
+        "url": "https://openstax.org/books/entrepreneurship/pages/6-suggested-resources"
+      }
+    ]
+  },
+  {
+    "type": "chapter",
+    "title": "7 Telling Your Entrepreneurial Story and Pitching the Idea",
+    "chapters": [
+      {
+        "type": "module",
+        "title": "Introduction",
+        "url": "https://openstax.org/books/entrepreneurship/pages/7-introduction"
+      },
+      {
+        "type": "module",
+        "title": "7.1 Clarifying Your Vision, Mission, and Goals",
+        "url": "https://openstax.org/books/entrepreneurship/pages/7-1-clarifying-your-vision-mission-and-goals"
+      },
+      {
+        "type": "module",
+        "title": "7.2 Sharing Your Entrepreneurial Story",
+        "url": "https://openstax.org/books/entrepreneurship/pages/7-2-sharing-your-entrepreneurial-story"
+      },
+      {
+        "type": "module",
+        "title": "7.3 Developing Pitches for Various Audiences and Goals",
+        "url": "https://openstax.org/books/entrepreneurship/pages/7-3-developing-pitches-for-various-audiences-and-goals"
+      },
+      {
+        "type": "module",
+        "title": "7.4 Protecting Your Idea and Polishing the Pitch through Feedback",
+        "url": "https://openstax.org/books/entrepreneurship/pages/7-4-protecting-your-idea-and-polishing-the-pitch-through-feedback"
+      },
+      {
+        "type": "module",
+        "title": "7.5 Reality Check: Contests and Competitions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/7-5-reality-check-contests-and-competitions"
+      },
+      {
+        "type": "module",
+        "title": "Key Terms",
+        "url": "https://openstax.org/books/entrepreneurship/pages/7-key-terms"
+      },
+      {
+        "type": "module",
+        "title": "Summary",
+        "url": "https://openstax.org/books/entrepreneurship/pages/7-summary"
+      },
+      {
+        "type": "module",
+        "title": "Review Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/7-review-questions"
+      },
+      {
+        "type": "module",
+        "title": "Discussion Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/7-discussion-questions"
+      },
+      {
+        "type": "module",
+        "title": "Case Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/7-case-questions"
+      },
+      {
+        "type": "module",
+        "title": "Suggested Resources",
+        "url": "https://openstax.org/books/entrepreneurship/pages/7-suggested-resources"
+      }
+    ]
+  },
+  {
+    "type": "chapter",
+    "title": "8 Entrepreneurial Marketing and Sales",
+    "chapters": [
+      {
+        "type": "module",
+        "title": "Introduction",
+        "url": "https://openstax.org/books/entrepreneurship/pages/8-introduction"
+      },
+      {
+        "type": "module",
+        "title": "8.1 Entrepreneurial Marketing and the Marketing Mix",
+        "url": "https://openstax.org/books/entrepreneurship/pages/8-1-entrepreneurial-marketing-and-the-marketing-mix"
+      },
+      {
+        "type": "module",
+        "title": "8.2 Market Research, Market Opportunity Recognition, and Target Market",
+        "url": "https://openstax.org/books/entrepreneurship/pages/8-2-market-research-market-opportunity-recognition-and-target-market"
+      },
+      {
+        "type": "module",
+        "title": "8.3 Marketing Techniques and Tools for Entrepreneurs",
+        "url": "https://openstax.org/books/entrepreneurship/pages/8-3-marketing-techniques-and-tools-for-entrepreneurs"
+      },
+      {
+        "type": "module",
+        "title": "8.4 Entrepreneurial Branding",
+        "url": "https://openstax.org/books/entrepreneurship/pages/8-4-entrepreneurial-branding"
+      },
+      {
+        "type": "module",
+        "title": "8.5 Marketing Strategy and the Marketing Plan",
+        "url": "https://openstax.org/books/entrepreneurship/pages/8-5-marketing-strategy-and-the-marketing-plan"
+      },
+      {
+        "type": "module",
+        "title": "8.6 Sales and Customer Service",
+        "url": "https://openstax.org/books/entrepreneurship/pages/8-6-sales-and-customer-service"
+      },
+      {
+        "type": "module",
+        "title": "Key Terms",
+        "url": "https://openstax.org/books/entrepreneurship/pages/8-key-terms"
+      },
+      {
+        "type": "module",
+        "title": "Summary",
+        "url": "https://openstax.org/books/entrepreneurship/pages/8-summary"
+      },
+      {
+        "type": "module",
+        "title": "Review Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/8-review-questions"
+      },
+      {
+        "type": "module",
+        "title": "Discussion Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/8-discussion-questions"
+      },
+      {
+        "type": "module",
+        "title": "Case Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/8-case-questions"
+      },
+      {
+        "type": "module",
+        "title": "Suggested Resources",
+        "url": "https://openstax.org/books/entrepreneurship/pages/8-suggested-resources"
+      }
+    ]
+  },
+  {
+    "type": "chapter",
+    "title": "9 Entrepreneurial Finance and Accounting",
+    "chapters": [
+      {
+        "type": "module",
+        "title": "Introduction",
+        "url": "https://openstax.org/books/entrepreneurship/pages/9-introduction"
+      },
+      {
+        "type": "module",
+        "title": "9.1 Overview of Entrepreneurial Finance and Accounting Strategies",
+        "url": "https://openstax.org/books/entrepreneurship/pages/9-1-overview-of-entrepreneurial-finance-and-accounting-strategies"
+      },
+      {
+        "type": "module",
+        "title": "9.2 Special Funding Strategies",
+        "url": "https://openstax.org/books/entrepreneurship/pages/9-2-special-funding-strategies"
+      },
+      {
+        "type": "module",
+        "title": "9.3 Accounting Basics for Entrepreneurs",
+        "url": "https://openstax.org/books/entrepreneurship/pages/9-3-accounting-basics-for-entrepreneurs"
+      },
+      {
+        "type": "module",
+        "title": "9.4 Developing Startup Financial Statements and Projections",
+        "url": "https://openstax.org/books/entrepreneurship/pages/9-4-developing-startup-financial-statements-and-projections"
+      },
+      {
+        "type": "module",
+        "title": "Key Terms",
+        "url": "https://openstax.org/books/entrepreneurship/pages/9-key-terms"
+      },
+      {
+        "type": "module",
+        "title": "Summary",
+        "url": "https://openstax.org/books/entrepreneurship/pages/9-summary"
+      },
+      {
+        "type": "module",
+        "title": "Review Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/9-review-questions"
+      },
+      {
+        "type": "module",
+        "title": "Discussion Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/9-discussion-questions"
+      },
+      {
+        "type": "module",
+        "title": "Case Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/9-case-questions"
+      },
+      {
+        "type": "module",
+        "title": "Suggested Resources",
+        "url": "https://openstax.org/books/entrepreneurship/pages/9-suggested-resources"
+      }
+    ]
+  },
+  {
+    "type": "chapter",
+    "title": "10 Launch for Growth to Success",
+    "chapters": [
+      {
+        "type": "module",
+        "title": "Introduction",
+        "url": "https://openstax.org/books/entrepreneurship/pages/10-introduction"
+      },
+      {
+        "type": "module",
+        "title": "10.1 Launching the Imperfect Business: Lean Startup",
+        "url": "https://openstax.org/books/entrepreneurship/pages/10-1-launching-the-imperfect-business-lean-startup"
+      },
+      {
+        "type": "module",
+        "title": "10.2 Why Early Failure Can Lead to Success Later",
+        "url": "https://openstax.org/books/entrepreneurship/pages/10-2-why-early-failure-can-lead-to-success-later"
+      },
+      {
+        "type": "module",
+        "title": "10.3 The Challenging Truth about Business Ownership",
+        "url": "https://openstax.org/books/entrepreneurship/pages/10-3-the-challenging-truth-about-business-ownership"
+      },
+      {
+        "type": "module",
+        "title": "10.4 Managing, Following, and Adjusting the Initial Plan",
+        "url": "https://openstax.org/books/entrepreneurship/pages/10-4-managing-following-and-adjusting-the-initial-plan"
+      },
+      {
+        "type": "module",
+        "title": "10.5 Growth: Signs, Pains, and Cautions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/10-5-growth-signs-pains-and-cautions"
+      },
+      {
+        "type": "module",
+        "title": "Key Terms",
+        "url": "https://openstax.org/books/entrepreneurship/pages/10-key-terms"
+      },
+      {
+        "type": "module",
+        "title": "Summary",
+        "url": "https://openstax.org/books/entrepreneurship/pages/10-summary"
+      },
+      {
+        "type": "module",
+        "title": "Review Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/10-review-questions"
+      },
+      {
+        "type": "module",
+        "title": "Discussion Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/10-discussion-questions"
+      },
+      {
+        "type": "module",
+        "title": "Case Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/10-case-questions"
+      },
+      {
+        "type": "module",
+        "title": "Suggested Resources",
+        "url": "https://openstax.org/books/entrepreneurship/pages/10-suggested-resources"
+      }
+    ]
+  },
+  {
+    "type": "chapter",
+    "title": "11 Business Model and Plan",
+    "chapters": [
+      {
+        "type": "module",
+        "title": "Introduction",
+        "url": "https://openstax.org/books/entrepreneurship/pages/11-introduction"
+      },
+      {
+        "type": "module",
+        "title": "11.1 Avoiding the “Field of Dreams” Approach",
+        "url": "https://openstax.org/books/entrepreneurship/pages/11-1-avoiding-the-field-of-dreams-approach"
+      },
+      {
+        "type": "module",
+        "title": "11.2 Designing the Business Model",
+        "url": "https://openstax.org/books/entrepreneurship/pages/11-2-designing-the-business-model"
+      },
+      {
+        "type": "module",
+        "title": "11.3 Conducting a Feasibility Analysis",
+        "url": "https://openstax.org/books/entrepreneurship/pages/11-3-conducting-a-feasibility-analysis"
+      },
+      {
+        "type": "module",
+        "title": "11.4 The Business Plan",
+        "url": "https://openstax.org/books/entrepreneurship/pages/11-4-the-business-plan"
+      },
+      {
+        "type": "module",
+        "title": "Key Terms",
+        "url": "https://openstax.org/books/entrepreneurship/pages/11-key-terms"
+      },
+      {
+        "type": "module",
+        "title": "Summary",
+        "url": "https://openstax.org/books/entrepreneurship/pages/11-summary"
+      },
+      {
+        "type": "module",
+        "title": "Review Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/11-review-questions"
+      },
+      {
+        "type": "module",
+        "title": "Discussion Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/11-discussion-questions"
+      },
+      {
+        "type": "module",
+        "title": "Case Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/11-case-questions"
+      },
+      {
+        "type": "module",
+        "title": "Suggested Resources",
+        "url": "https://openstax.org/books/entrepreneurship/pages/11-suggested-resources"
+      }
+    ]
+  },
+  {
+    "type": "chapter",
+    "title": "12 Building Networks and Foundations",
+    "chapters": [
+      {
+        "type": "module",
+        "title": "Introduction",
+        "url": "https://openstax.org/books/entrepreneurship/pages/12-introduction"
+      },
+      {
+        "type": "module",
+        "title": "12.1 Building and Connecting to Networks",
+        "url": "https://openstax.org/books/entrepreneurship/pages/12-1-building-and-connecting-to-networks"
+      },
+      {
+        "type": "module",
+        "title": "12.2 Building the Entrepreneurial Dream Team",
+        "url": "https://openstax.org/books/entrepreneurship/pages/12-2-building-the-entrepreneurial-dream-team"
+      },
+      {
+        "type": "module",
+        "title": "12.3 Designing a Startup Operational Plan",
+        "url": "https://openstax.org/books/entrepreneurship/pages/12-3-designing-a-startup-operational-plan"
+      },
+      {
+        "type": "module",
+        "title": "Key Terms",
+        "url": "https://openstax.org/books/entrepreneurship/pages/12-key-terms"
+      },
+      {
+        "type": "module",
+        "title": "Summary",
+        "url": "https://openstax.org/books/entrepreneurship/pages/12-summary"
+      },
+      {
+        "type": "module",
+        "title": "Review Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/12-review-questions"
+      },
+      {
+        "type": "module",
+        "title": "Discussion Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/12-discussion-questions"
+      },
+      {
+        "type": "module",
+        "title": "Case Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/12-case-questions"
+      },
+      {
+        "type": "module",
+        "title": "Suggested Resources",
+        "url": "https://openstax.org/books/entrepreneurship/pages/12-suggested-resources"
+      }
+    ]
+  },
+  {
+    "type": "chapter",
+    "title": "13 Business Structure Options: Legal, Tax, and Risk Issues",
+    "chapters": [
+      {
+        "type": "module",
+        "title": "Introduction",
+        "url": "https://openstax.org/books/entrepreneurship/pages/13-introduction"
+      },
+      {
+        "type": "module",
+        "title": "13.1 Business Structures: Overview of Legal and Tax Considerations",
+        "url": "https://openstax.org/books/entrepreneurship/pages/13-1-business-structures-overview-of-legal-and-tax-considerations"
+      },
+      {
+        "type": "module",
+        "title": "13.2 Corporations",
+        "url": "https://openstax.org/books/entrepreneurship/pages/13-2-corporations"
+      },
+      {
+        "type": "module",
+        "title": "13.3 Partnerships and Joint Ventures",
+        "url": "https://openstax.org/books/entrepreneurship/pages/13-3-partnerships-and-joint-ventures"
+      },
+      {
+        "type": "module",
+        "title": "13.4 Limited Liability Companies",
+        "url": "https://openstax.org/books/entrepreneurship/pages/13-4-limited-liability-companies"
+      },
+      {
+        "type": "module",
+        "title": "13.5 Sole Proprietorships",
+        "url": "https://openstax.org/books/entrepreneurship/pages/13-5-sole-proprietorships"
+      },
+      {
+        "type": "module",
+        "title": "13.6 Additional Considerations: Capital Acquisition, Business Domicile, and Technology",
+        "url": "https://openstax.org/books/entrepreneurship/pages/13-6-additional-considerations-capital-acquisition-business-domicile-and-technology"
+      },
+      {
+        "type": "module",
+        "title": "13.7 Mitigating and Managing Risks",
+        "url": "https://openstax.org/books/entrepreneurship/pages/13-7-mitigating-and-managing-risks"
+      },
+      {
+        "type": "module",
+        "title": "Key Terms",
+        "url": "https://openstax.org/books/entrepreneurship/pages/13-key-terms"
+      },
+      {
+        "type": "module",
+        "title": "Summary",
+        "url": "https://openstax.org/books/entrepreneurship/pages/13-summary"
+      },
+      {
+        "type": "module",
+        "title": "Review Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/13-review-questions"
+      },
+      {
+        "type": "module",
+        "title": "Discussion Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/13-discussion-questions"
+      },
+      {
+        "type": "module",
+        "title": "Case Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/13-case-questions"
+      },
+      {
+        "type": "module",
+        "title": "Suggested Resources",
+        "url": "https://openstax.org/books/entrepreneurship/pages/13-suggested-resources"
+      }
+    ]
+  },
+  {
+    "type": "chapter",
+    "title": "14 Fundamentals of Resource Planning",
+    "chapters": [
+      {
+        "type": "module",
+        "title": "Introduction",
+        "url": "https://openstax.org/books/entrepreneurship/pages/14-introduction"
+      },
+      {
+        "type": "module",
+        "title": "14.1 Types of Resources",
+        "url": "https://openstax.org/books/entrepreneurship/pages/14-1-types-of-resources"
+      },
+      {
+        "type": "module",
+        "title": "14.2 Using the PEST Framework to Assess Resource Needs",
+        "url": "https://openstax.org/books/entrepreneurship/pages/14-2-using-the-pest-framework-to-assess-resource-needs"
+      },
+      {
+        "type": "module",
+        "title": "14.3 Managing Resources over the Venture Life Cycle",
+        "url": "https://openstax.org/books/entrepreneurship/pages/14-3-managing-resources-over-the-venture-life-cycle"
+      },
+      {
+        "type": "module",
+        "title": "Key Terms",
+        "url": "https://openstax.org/books/entrepreneurship/pages/14-key-terms"
+      },
+      {
+        "type": "module",
+        "title": "Summary",
+        "url": "https://openstax.org/books/entrepreneurship/pages/14-summary"
+      },
+      {
+        "type": "module",
+        "title": "Review Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/14-review-questions"
+      },
+      {
+        "type": "module",
+        "title": "Discussion Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/14-discussion-questions"
+      },
+      {
+        "type": "module",
+        "title": "Case Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/14-case-questions"
+      },
+      {
+        "type": "module",
+        "title": "Suggested Resources",
+        "url": "https://openstax.org/books/entrepreneurship/pages/14-suggested-resources"
+      }
+    ]
+  },
+  {
+    "type": "chapter",
+    "title": "15 Next Steps",
+    "chapters": [
+      {
+        "type": "module",
+        "title": "Introduction",
+        "url": "https://openstax.org/books/entrepreneurship/pages/15-introduction"
+      },
+      {
+        "type": "module",
+        "title": "15.1 Launching Your Venture",
+        "url": "https://openstax.org/books/entrepreneurship/pages/15-1-launching-your-venture"
+      },
+      {
+        "type": "module",
+        "title": "15.2 Making Difficult Business Decisions in Response to Challenges",
+        "url": "https://openstax.org/books/entrepreneurship/pages/15-2-making-difficult-business-decisions-in-response-to-challenges"
+      },
+      {
+        "type": "module",
+        "title": "15.3 Seeking Help or Support",
+        "url": "https://openstax.org/books/entrepreneurship/pages/15-3-seeking-help-or-support"
+      },
+      {
+        "type": "module",
+        "title": "15.4 Now What? Serving as a Mentor, Consultant, or Champion",
+        "url": "https://openstax.org/books/entrepreneurship/pages/15-4-now-what-serving-as-a-mentor-consultant-or-champion"
+      },
+      {
+        "type": "module",
+        "title": "15.5 Reflections: Documenting the Journey",
+        "url": "https://openstax.org/books/entrepreneurship/pages/15-5-reflections-documenting-the-journey"
+      },
+      {
+        "type": "module",
+        "title": "Key Terms",
+        "url": "https://openstax.org/books/entrepreneurship/pages/15-key-terms"
+      },
+      {
+        "type": "module",
+        "title": "Summary",
+        "url": "https://openstax.org/books/entrepreneurship/pages/15-summary"
+      },
+      {
+        "type": "module",
+        "title": "Review Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/15-review-questions"
+      },
+      {
+        "type": "module",
+        "title": "Discussion Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/15-discussion-questions"
+      },
+      {
+        "type": "module",
+        "title": "Case Questions",
+        "url": "https://openstax.org/books/entrepreneurship/pages/15-case-questions"
+      },
+      {
+        "type": "module",
+        "title": "Suggested Resources",
+        "url": "https://openstax.org/books/entrepreneurship/pages/15-suggested-resources"
+      }
+    ]
+  },
+  {
+    "type": "module",
+    "title": "A | Suggested Resources",
+    "url": "https://openstax.org/books/entrepreneurship/pages/a-suggested-resources"
+  },
+  {
+    "type": "module",
+    "title": "Index",
+    "url": "https://openstax.org/books/entrepreneurship/pages/index"
+  }
+]
